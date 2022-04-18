@@ -1,10 +1,8 @@
 # Python Projects:
-#   Simple Games
-#   Python Code Challenges
-#   Module Learning
+## Simple Games
 
 # Blender Projects:
 
 
 # Java Projects:
-#   Practice Projects
+## Practice Projects
